@@ -6,8 +6,8 @@ function Header() {
             <div className='d-flex justify-content-between'>
                 <div className='d-flex'>
                     <a href="email@example.com">kawsarvy.design@gmail.com</a>
-                    <button>copy</button>
-                    <button>cv</button>
+                    <button className="rounded-button">copy</button>
+                    <button className="rounded-button">cv</button>
                 </div>
 
                 <div className='d-flex'>
