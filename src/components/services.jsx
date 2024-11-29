@@ -6,9 +6,10 @@ function Services() {
             <p>Designing interfaces that are intuitive,efficient and enjoyable to use.</p>
             <h6>Web & Mobile App</h6>
             <p>Transforming ideas into exceptional web and mobile app experiences.</p>
-            <h6>Design & Creative</h6>
+            <h6>            <i className="fa-regular fa-object-group"></i>
+                Design & Creative</h6>
             <p>Crafting visually stunning designs that connect with your audience.</p>
-            <h6>Development</h6>
+            <h6><i className="fa-regular fa-computer"></i>Development</h6>
             <p>Bringing your vision to life with the latest technology and design trends.</p>
 
 

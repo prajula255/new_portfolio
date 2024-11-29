@@ -3,6 +3,7 @@ import Client from './components/client';
 import Contact from './components/contact';
 import Header from './components/header';
 import Introduction from './components/intro';
+import Rightscpy from './components/rpage';
 import Services from './components/services';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Client />
       <Services />
       <Contact />
+      <Rightscpy />
     </div>
   );
 }
