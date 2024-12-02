@@ -6,7 +6,7 @@ function Client() {
 
             <h2>Collaborate with brands and agencies to create impactful results.</h2>
             <div className='d-flex justify-content-center'>
-                <button className="rounded-button">Services</button>
+                <button className="btn btn-outline-secondary rounded-5">Services</button>
             </div>
         </div>
     )

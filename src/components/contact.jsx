@@ -5,9 +5,9 @@ function Contact() {
         <div className="contact-details">
             <i className="fas fa-handshake"></i>
             <h2>Tell me about your next project</h2>
-            <button className="rounded-button"><i className="fa-regular fa-envelope"></i> Email me</button>
-            
-            <button className="rounded-button">Whatsapp</button>
+            <button className="btn btn-outline-secondary text-dark rounded-5 "><i className="fa-regular fa-envelope"></i> Email me</button>
+
+            <button className="btn btn-outline-secondary text-dark rounded-5">Whatsapp</button>
         </div>
     )
 }
