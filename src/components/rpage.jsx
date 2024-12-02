@@ -2,7 +2,7 @@ import React from "react";
 function Rightscpy() {
     return (
         <div className="cpyrghts">
-            <div className='d-flex justify-content-between' style={{ backgroundColor: "#fafafa" }}>
+            <div className='d-flex justify-content-between' style={{ backgroundColor: "#f7f7f7" }}>
                 <div className='d-flex'>
                     <h6><i className="far fa-copyright"></i>2024 All Rights Reserved.</h6>
                 </div>
