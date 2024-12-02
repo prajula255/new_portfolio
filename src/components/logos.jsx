@@ -3,6 +3,8 @@ function Logos() {
     return (
        <div className="lo">
         <img src="/nb.jpg" className="img-fluid" alt="Logo" />
+        <img src="/ccola.jpg" className="img-fluid" alt="Logo" />
+
        </div> 
     )
 }
