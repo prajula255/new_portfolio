@@ -10,7 +10,7 @@ import Services from './components/services';
 function App() {
   return (
     <div className="App" style={{ backgroundColor: "rgba(238,237,236,255)" }}>
-
+      
       <Header />
       <Introduction />
       <Logos />
@@ -19,6 +19,7 @@ function App() {
       <Contact />
       <Rightscpy />
     </div>
+
   );
 }
 
