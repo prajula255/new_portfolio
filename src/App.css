@@ -41,7 +41,7 @@
 .lo {
   display: flex;
   width: 100px;
-  ;
+  padding-left: 2rem;
   gap: 10rem;
   height: 10dvh;
 }
@@ -52,4 +52,7 @@
 
 .client-logos {
   padding-top: 5rem;
+}
+.pimg{
+  width: 10%;
 }
