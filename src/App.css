@@ -39,11 +39,17 @@
 }
 
 .lo {
-  display: flex;
+  /* display: flex;
   width: 40%;
   padding-left: 2rem;
   gap: 10rem;
-  height: 10dvh;
+  height: 10dvh; */
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  height: 50px;
+  background: #f8f5f5;
 }
 
 .intro {
