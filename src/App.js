@@ -1,5 +1,4 @@
 import './App.css';
-import Client from './components/client';
 import Contact from './components/contact';
 import Header from './components/header';
 import Introduction from './components/intro';
@@ -14,7 +13,7 @@ function App() {
       <Header />
       <Introduction />
       <Logos />
-      {/* <Client /> */}
+    
       <Services />
       <Contact />
       <Rightscpy />
