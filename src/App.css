@@ -39,11 +39,7 @@
 }
 
 .lo {
-  /* display: flex;
-  width: 40%;
-  padding-left: 2rem;
-  gap: 10rem;
-  height: 10dvh; */
+
   display: flex;
   justify-content: center;
   gap: 20px;
@@ -56,10 +52,28 @@
   height: 30dvh;
 }
 
-.client-logos {
-  padding-top: 5rem;
-}
-.pimg{
+
+.pimg {
   width: 100px;
   border-radius: 50%;
+}
+
+
+.services {
+  text-align: center;
+  padding: 40px 20px;
+  background: #f9f9f9;
+}
+
+.service-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.service {
+  width: 20%;
+  padding: 10px;
+  text-align: left;
 }

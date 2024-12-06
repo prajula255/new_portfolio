@@ -14,7 +14,7 @@ function App() {
       <Header />
       <Introduction />
       <Logos />
-      <Client />
+      {/* <Client /> */}
       <Services />
       <Contact />
       <Rightscpy />
